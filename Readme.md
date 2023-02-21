@@ -4,11 +4,11 @@ Facade pattern hides the complexities of the system and provides an interface to
 This pattern involves a single class which provides simplified methods required by client and delegates calls to methods of existing system classes.
 
 <div align="center">
-    <img src="https://github.com/ibrahimbayburtlu/Facade-Design-Pattern/blob/main/facadeA.png">
+    <img src="https://github.com/ibrahimbayburtlu/Facade-Design-Pattern/blob/master/Img/facadeA.png">
 </div>
 
 # Implementation
 
 <div align="center">
-    <img src="https://github.com/ibrahimbayburtlu/Facade-Design-Pattern/blob/main/facade_pattern_uml_diagram.jpg">
+    <img src="https://github.com/ibrahimbayburtlu/Facade-Design-Pattern/blob/master/Img/facade_pattern_uml_diagram.jpg">
 </div>
